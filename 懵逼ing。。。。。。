@@ -1,11 +1,11 @@
 for(int i =5; i>0 ;i--)
+{
+    stringpart a = new stringpary(0,1);
+    if(master.indexOf(str.indexOf(i,i+1)!=-1))
+    {
+        String n = master.indexOf(str.substring(0,i);
+        return a = (n ,i+str.length()):
+    }
+    return null;
 
-word= master.substring(i-1,i;
-if(str.equal(word))
-{
-    return word.Stringpart(i-1,i)
-}
-else
-{
-    return -1;
 }
