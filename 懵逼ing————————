@@ -1,0 +1,11 @@
+for(int i =5; i>0 ;i--)
+{
+    stringpart a = new stringpary(0,1);
+    if(master.indexOf(str.indexOf(i,i+1)!=-1))
+    {
+        String n = master.indexOf(str.substring(0,i);
+        return a = (n ,i+str.length()):
+    }
+    return null; 
+
+}  
